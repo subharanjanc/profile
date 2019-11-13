@@ -96,7 +96,7 @@ img
 .fa {
   padding: 20px;
   font-size: 30px;
-  /* width: 50px; */
+  width: 50px;
   text-align: center;
   text-decoration: none;
 }
@@ -107,7 +107,7 @@ img
 
 /* Facebook */
 .fa-facebook {
-  background: green;
+  background: greenyellow;
   color: white;
 }
 
